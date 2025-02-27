@@ -1,7 +1,6 @@
-# Tarea 2
+# Tarea 3
 
-Sistema experto con logica difusa.
+Protocolo
 
-En esta presentacion se explora a un sistema experto con logica difusa el cual es util para saber las tendencias dentro del mercado de valores.
-El sistema experto fue creado por el usuario hrayrdb
-https://github.com/hrayrdb/Stock-Prediction
+Este es un protocolo de un pryecto que busca implementar la inteligencia artificial en el control de la calidad del aire, 
+se tiene pensado usar apis publicas y uso de estaciones meteorologicas para acceder a la informacion de la contaminacion del aire.
