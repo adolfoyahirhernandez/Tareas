@@ -1,6 +1,5 @@
-# Tarea 3
+# Tarea 1
 
-Protocolo
+Problemas de optimizacion
 
-Este es un protocolo de un pryecto que busca implementar la inteligencia artificial en el control de la calidad del aire, 
-se tiene pensado usar apis publicas y uso de estaciones meteorologicas para acceder a la informacion de la contaminacion del aire.
+En este documento se describen 4 problemas de optimizacion que son comunmente usados dentro del ambito de la programacion,
