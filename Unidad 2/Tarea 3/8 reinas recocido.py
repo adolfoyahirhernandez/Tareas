@@ -21,6 +21,15 @@ def generar_estado_inicial():
     
     return tablero
 
+def generar_estado_inicial_2():
+    # Se genera un tablero vacio
+    tablero = [['-' for _ in range(N)] for _ in range(N)]
+    
+    
+    tablero[0][0] = 'O'
+    
+    return tablero
+
 
 # Se verifica si hay conflictos en las reinas
 def verificar_conflictos(tablero):
